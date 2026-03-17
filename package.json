@@ -1,0 +1,12 @@
+{
+  "name": "maze-runner-game",
+  "version": "1.0.0",
+  "description": "Maze Runner Multiplayer Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
